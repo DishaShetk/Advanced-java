@@ -9,3 +9,4 @@ lab programs
 ##p7 https://github.com/DishaShetk/Advanced-java/blob/main/7.png
 ##p8 https://github.com/DishaShetk/Advanced-java/blob/main/8.png
 ##p9 https://github.com/DishaShetk/Advanced-java/blob/main/9.png
+##p10 https://github.com/DishaShetk/Advanced-java/blob/main/10.png
