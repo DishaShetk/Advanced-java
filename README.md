@@ -31,4 +31,5 @@ lab programs
 ##p29 https://github.com/DishaShetk/Advanced-java/blob/main/29.png
 ##p30 https://github.com/DishaShetk/Advanced-java/blob/main/30.png
 ##p31 https://github.com/DishaShetk/Advanced-java/blob/main/31.png
+##p32 https://github.com/DishaShetk/Advanced-java/blob/main/32.png
 
